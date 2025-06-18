@@ -42,7 +42,7 @@ If you don't have Git, you can download the ZIP file from GitHub and extract it,
 
    ```bash
    dotnet run
- ````
+````
 
    This will launch the console-based EduTrack application. Follow the on-screen instructions to interact with the system.
 
@@ -58,8 +58,6 @@ Watch a short video walkthrough of the application's features and functionality:
 
 ## Author
 
-Daniel Iryivuze
-Software Developer & Content Creator
-Kigali, Rwanda
-
-````
+- Daniel Iryivuze
+- Software Developer & Content Creator
+- Kigali, Rwanda
