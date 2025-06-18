@@ -12,3 +12,4 @@ D:\End projects\EduTrack\EduTrack\obj\Debug\net8.0\refint\EduTrack.dll
 D:\End projects\EduTrack\EduTrack\obj\Debug\net8.0\EduTrack.pdb
 D:\End projects\EduTrack\EduTrack\obj\Debug\net8.0\EduTrack.genruntimeconfig.cache
 D:\End projects\EduTrack\EduTrack\obj\Debug\net8.0\ref\EduTrack.dll
+D:\End projects\EduTrack\EduTrack\obj\Debug\net8.0\EduTrack.sourcelink.json
