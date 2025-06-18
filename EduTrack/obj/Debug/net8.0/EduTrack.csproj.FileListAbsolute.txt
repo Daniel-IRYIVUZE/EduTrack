@@ -1,0 +1,14 @@
+D:\End projects\EduTrack\EduTrack\bin\Debug\net8.0\EduTrack.exe
+D:\End projects\EduTrack\EduTrack\bin\Debug\net8.0\EduTrack.deps.json
+D:\End projects\EduTrack\EduTrack\bin\Debug\net8.0\EduTrack.runtimeconfig.json
+D:\End projects\EduTrack\EduTrack\bin\Debug\net8.0\EduTrack.dll
+D:\End projects\EduTrack\EduTrack\bin\Debug\net8.0\EduTrack.pdb
+D:\End projects\EduTrack\EduTrack\obj\Debug\net8.0\EduTrack.GeneratedMSBuildEditorConfig.editorconfig
+D:\End projects\EduTrack\EduTrack\obj\Debug\net8.0\EduTrack.AssemblyInfoInputs.cache
+D:\End projects\EduTrack\EduTrack\obj\Debug\net8.0\EduTrack.AssemblyInfo.cs
+D:\End projects\EduTrack\EduTrack\obj\Debug\net8.0\EduTrack.csproj.CoreCompileInputs.cache
+D:\End projects\EduTrack\EduTrack\obj\Debug\net8.0\EduTrack.dll
+D:\End projects\EduTrack\EduTrack\obj\Debug\net8.0\refint\EduTrack.dll
+D:\End projects\EduTrack\EduTrack\obj\Debug\net8.0\EduTrack.pdb
+D:\End projects\EduTrack\EduTrack\obj\Debug\net8.0\EduTrack.genruntimeconfig.cache
+D:\End projects\EduTrack\EduTrack\obj\Debug\net8.0\ref\EduTrack.dll
