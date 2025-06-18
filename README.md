@@ -1,6 +1,6 @@
 # EduTrack: Student Grade Management System
 
-EduTrack is a C# console-based application designed to help manage student names and grades. This system applies core programming concepts such as data structures, enums, exception handling, and control flow.
+EduTrack is a C# console-based application designed to help manage student names and grades. This system applies core programming concepts, including data structures, enums, exception handling, and control flow.
 
 ## Features
 
@@ -39,9 +39,10 @@ If you don't have Git, you can download the ZIP file from GitHub and extract it,
 
    Use the following command to build and start the application:
 
+
    ```bash
    dotnet run
-````
+ ````
 
    This will launch the console-based EduTrack application. Follow the on-screen instructions to interact with the system.
 
